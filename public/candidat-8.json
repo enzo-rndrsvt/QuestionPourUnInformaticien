@@ -1,0 +1,129 @@
+{
+  "questions": [
+    {
+      "question": "Quel est le créateur de l'internet ?",
+      "choices": ["Elon Musk", "Steve Jobs", "Tim Berners-Lee", "Jeff Bezos"],
+      "correct_answer": "Tim Berners-Lee"
+    },
+    {
+      "question": "Que permet la compression de données en ZIP ?",
+      "choices": [
+        "Réduire la taille des fichiers",
+        "Améliorer la qualité des images",
+        "Accélérer les connexions réseau",
+        "Crypter les données"
+      ],
+      "correct_answer": "Réduire la taille des fichiers"
+    },
+    {
+      "question": "Que permet un réseau privé virtuel (VPN) ?",
+      "choices": [
+        "Créer une connexion sécurisée sur un réseau public",
+        "Accélérer les transferts de fichiers",
+        "Bloquer les virus informatiques",
+        "Optimiser les performances du CPU"
+      ],
+      "correct_answer": "Créer une connexion sécurisée sur un réseau public"
+    },
+    {
+      "question": "Que signifie l'acronyme 'PDF' ?",
+      "choices": [
+        "Portable Document Format",
+        "Public Document File",
+        "Private Data Format",
+        "Personal Document File"
+      ],
+      "correct_answer": "Portable Document Format"
+    },
+    {
+      "question": "Que permet de faire un navigateur web ?",
+      "choices": [
+        "Accéder à des sites Internet",
+        "Écouter de la musique",
+        "Rédiger des documents",
+        "Dessiner des images"
+      ],
+      "correct_answer": "Accéder à des sites Internet"
+    },
+    {
+      "question": "Que signifie l'acronyme 'IP' dans le terme adresse IP ?",
+      "choices": [
+        "Internet Protocol",
+        "Internal Process",
+        "Information Path",
+        "Integrated Program"
+      ],
+      "correct_answer": "Internet Protocol"
+    },
+    {
+      "question": "Lequel de ces langages de programmation est principalement utilisé pour l'intelligence artificielle ?",
+      "choices": ["Python", "PHP", "HTML", "CSS"],
+      "correct_answer": "Python"
+    },
+    {
+      "question": "Que signifie 'www' dans une adresse web ?",
+      "choices": [
+        "World Wide Web",
+        "Web Wide World",
+        "Wireless Web World",
+        "World Web Wide"
+      ],
+      "correct_answer": "World Wide Web"
+    },
+    {
+      "question": "Comment s'appelle le premier jeu vidéo de l'histoire",
+      "choices": ["Pong", "Tennis for Two", "SpaceWar", "OXO"],
+      "correct_answer": "OXO"
+    },
+    {
+      "question": "Que signifient les lettres RBG",
+      "choices": [
+        "Read Graphics Buffer",
+        "Reset General Boot",
+        "Red Green Blue",
+        "Random Giga Bytes"
+      ],
+      "correct_answer": "Red Green Blue"
+    },
+    {
+      "question": "Que signifie HTTP dans le contexte d'Internet ?",
+      "choices": [
+        "HyperText Transfer Protocol",
+        "HyperText Transfer Program",
+        "Host Transfer Text Protocol",
+        "Hyper Transfer Technology Protocol"
+      ],
+      "correct_answer": "HyperText Transfer Protocol"
+    },
+    {
+      "question": "Lequel de ces langages est couramment utilisé pour interroger des bases de données  ?",
+      "choices": ["SQL", "C#", "Python", "HTML"],
+      "correct_answer": "SQL"
+    },
+    {
+      "question": "Lequel de ces composants est responsable de l'exécution des instructions dans un ordinateur ?",
+      "choices": ["Processeur", "RAM", "Disque dur", "Carte graphique"],
+      "correct_answer": "Processeur"
+    },
+    {
+      "question": "Qu'est-ce qu'un algorithme ?",
+      "choices": [
+        "Un certain type de jeu vidéo",
+        "Une séquence d'instructions pour résoudre un problème",
+        "Un type de matériel informatique",
+        "Une application de messagerie"
+      ],
+      "correct_answer": "Une séquence d'instructions pour résoudre un problème"
+    },
+    {
+      "question": "Quel est le principal rôle de la carte graphique dans un ordinateur ?",
+      "choices": [
+        "Gérer l'affichage des images",
+        "Stocker des fichiers",
+        "Accélérer la connexion Internet",
+        "Protéger contre les virus"
+      ],
+      "correct_answer": "Gérer l'affichage des images"
+    }
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "questions": [
+    {
+      "question": "Qu'est-ce qu'un algorithme ?",
+      "choices": [
+        "Un certain type de jeu vidéo",
+        "Une séquence d'instructions pour résoudre un problème",
+        "Un type de matériel informatique",
+        "Une application de messagerie"
+      ],
+      "correct_answer": "Une séquence d'instructions pour résoudre un problème"
+    },
+    {
+      "question": "Qu'est-ce qu'un système d'exploitation (OS) ?",
+      "choices": [
+        "Un logiciel qui gère les ressources matérielles et logicielles d'un ordinateur.",
+        "Un programme qui permet d'écrire du texte sur un ordinateur.",
+        "Un service en ligne pour stocker des fichiers.",
+        "Un réseau social pour connecter des amis."
+      ],
+      "correct_answer": "Un logiciel qui gère les ressources matérielles et logicielles d'un ordinateur."
+    },
+
+    {
+      "question": "En quelle année fut mise en ligne la première version d'Internet ?",
+      "choices": ["1971", "1979", "1985", "1989"],
+      "correct_answer": "1989"
+    },
+    {
+      "question": "De quoi est composé un ordinateur ?",
+      "choices": [
+        "150g de sucre, 200g de farine, 120g de beurre, 110g d'eau ",
+        "Un processeur, un disque dur, un bloc d'alimentation, un systeme de refroidissement et plein d'autres composants"
+      ],
+      "correct_answer": "Un processeur, un disque dur, un bloc d'alimentation, un systeme de refroidissement et plein d'autres composants"
+    },
+    {
+      "question": "Que signifient les lettres RBG",
+      "choices": [
+        "Read Graphics Buffer",
+        "Reset General Boot",
+        "Red Green Blue",
+        "Random Giga Bytes"
+      ],
+      "correct_answer": "Red Green Blue"
+    },
+    {
+      "question": "Quel est le rôle principal d'une base de données?",
+      "choices": [
+        "Stocker et organiser des informations",
+        "Exécuter des programmes",
+        "Compiler du code",
+        "Gérer des réseaux"
+      ],
+      "correct_answer": "Stocker et organiser des informations"
+    },
+    {
+      "question": "Lequel de ces éléments n'est pas un langage de programmation ?",
+      "choices": ["Java", "Python", "Photoshop", "C++"],
+      "correct_answer": "Photoshop"
+    },
+    {
+      "question": "Quel est le langage de base utilisé pour créer des sites web ?",
+      "choices": ["HTML", "Python", "Java", "C++"],
+      "correct_answer": "HTML"
+    },
+    {
+      "question": "Quel est l'unité de stockage la plus petite en informatique ?",
+      "choices": ["Bit", "Octet", "Kilo-octet", "Mega-octet"],
+      "correct_answer": "Bit"
+    },
+    {
+      "question": "Que signifie 'www' dans une adresse web ?",
+      "choices": [
+        "World Wide Web",
+        "Web Wide World",
+        "Wireless Web World",
+        "World Web Wide"
+      ],
+      "correct_answer": "World Wide Web"
+    },
+    {
+      "question": "Que signifie l'acronyme 'IP' dans le terme adresse IP ?",
+      "choices": [
+        "Internet Protocol",
+        "Internal Process",
+        "Information Path",
+        "Integrated Program"
+      ],
+      "correct_answer": "Internet Protocol"
+    }
+  ]
+}
