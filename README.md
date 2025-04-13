@@ -1,29 +1,36 @@
-# QpuI
+# Question Pour Un Informaticien
 
-This template should help get you started developing with Vue 3 in Vite.
+Ce projet a été réalisé dans le cadre d'une épreuve pour l'événement _Campus Warrior_ organisé par l'IUT de Laval.
 
-## Recommended IDE Setup
+Le but de l'épreuve est de répondre le plus rapidement possible à 10 questions sur le thème de l'informatique
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
+Chaque mauvaise réponse rajoute un malus de temps sur l'ensemble des épreuves.
 
-## Customize configuration
+L'événement étant diffusé en direct, la rediffusion est disponible ici : [Campus Warrior](https://youtu.be/OvXqXSXzmEg?t=6341)
 
-See [Vite Configuration Reference](https://vite.dev/config/).
 
-## Project Setup
+## Installation du Projet
+
+### 1. Cloner le projet
+
+```sh
+git clone https://github.com/enzo-rndrsvt/QuestionPourUnInformaticien.git
+```
+
+```sh
+cd QuestionPourUnInformaticien
+```
+
+### 2. Installez les dépendances
 
 ```sh
 npm install
 ```
 
-### Compile and Hot-Reload for Development
+### 3. Compilation pour le développement
 
 ```sh
 npm run dev
 ```
 
-### Compile and Minify for Production
 
-```sh
-npm run build
-```
